@@ -1,0 +1,37 @@
+[
+    {
+        "Name": "banan",
+        "Calories": 108,
+        "Description": "taki zolty"
+    },
+    {
+        "Name": "Bu\u0142ka pszenna ",
+        "Calories": 273,
+        "Description": "zwyk\u0142a bu\u0142ka"
+    },
+    {
+        "Name": "Kawa ",
+        "Calories": 5,
+        "Description": "bez cukru"
+    },
+    {
+        "Name": "Kie\u0142basa \u015bl\u0105ska",
+        "Calories": 210,
+        "Description": "jedna kie\u0142basa"
+    },
+    {
+        "Name": "Ry\u017c bia\u0142y",
+        "Calories": 344,
+        "Description": "zwyk\u0142y ry\u017c"
+    },
+    {
+        "Name": "Pier\u015b kurczaka",
+        "Calories": 99,
+        "Description": "bez sk\u00f3ry"
+    },
+    {
+        "Name": "jab\u0142ko",
+        "Calories": 90,
+        "Description": "to jest owoc"
+    }
+]
